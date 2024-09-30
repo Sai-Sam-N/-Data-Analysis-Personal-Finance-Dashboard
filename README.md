@@ -1,2 +1,2 @@
-# -Data-Analysis-Personal-Finance-Dashboard
+# Personal-Finance-Dashboard
 Using PowerBI
